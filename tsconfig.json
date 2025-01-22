@@ -7,7 +7,8 @@
       "@constants/*": ["constants/*"],
       "@services/*": ["services/*"],
       "@controllers/*": ["controllers/*"],
-      "@routes/*": ["routes/*"]
+      "@routes/*": ["routes/*"],
+      "@errors/*": ["errors/*"]
     },
     "esModuleInterop": true,
     "target": "ES2021",
