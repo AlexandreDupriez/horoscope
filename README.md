@@ -25,6 +25,9 @@
    npm install
    ```
 
+3. Create .env if you don't want to use default port (DEFAULT 3000). 
+You can check .env.example to have the template.
+
 ---
 
 ## Running the Project
