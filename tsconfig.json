@@ -11,7 +11,7 @@
       "@errors/*": ["errors/*"]
     },
     "esModuleInterop": true,
-    "target": "ES2021",
+    "target": "es2022",
     "module": "commonjs"
   },
   "include": ["src/**/*.ts"]
